@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo.iml" filepath="$PROJECT_DIR$/ssm_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_assembing/ssm_demo_assembing.iml" filepath="$PROJECT_DIR$/ssm_demo_assembing/ssm_demo_assembing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_common/ssm_demo_common.iml" filepath="$PROJECT_DIR$/ssm_demo_common/ssm_demo_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_control/ssm_demo_control.iml" filepath="$PROJECT_DIR$/ssm_demo_control/ssm_demo_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_error/ssm_demo_error.iml" filepath="$PROJECT_DIR$/ssm_demo_error/ssm_demo_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_mapper/ssm_demo_mapper.iml" filepath="$PROJECT_DIR$/ssm_demo_mapper/ssm_demo_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_model/ssm_demo_model.iml" filepath="$PROJECT_DIR$/ssm_demo_model/ssm_demo_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_demo_service/ssm_demo_service.iml" filepath="$PROJECT_DIR$/ssm_demo_service/ssm_demo_service.iml" />
+    </modules>
+  </component>
+</project>
